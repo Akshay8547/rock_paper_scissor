@@ -1,6 +1,6 @@
 # rock_paper_scissor
 A classic game which allows user to play rock-paper-scissor game against the computer
-### Installimg the library
+### Installing the library
       pip install random
 ### Usage
 ```python
@@ -52,5 +52,7 @@ A classic game which allows user to play rock-paper-scissor game against the com
        ###print the final output and scores
        print("You won " +str(user_wins)  + " times.")
        print("The computer won " + str(computer_wins) + " times.")
+
+```
 
       
