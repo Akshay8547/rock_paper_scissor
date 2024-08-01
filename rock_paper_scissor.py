@@ -3,8 +3,6 @@ import random
 user_wins = 0
 computer_wins = 0
 entries = ["rock", "paper", "scissor"]
-#random_number = random.randint(0, 2)
-#computer_pick = entries[random_number]
 
 while True:
     user_input = input( "Type Rock/Paper/Scissor or Q to quit: ").lower()
