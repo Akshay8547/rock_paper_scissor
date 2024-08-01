@@ -3,3 +3,17 @@ A classic game which allows user to play rock-paper-scissor game against the com
 
 ### Usage
       python rock_paper_scissor.py
+
+      ###Output
+      #Type Rock/Paper/Scissor or Q to quit: Scissor
+      #Computer picked rock.
+      #You lost!
+      #Type Rock/Paper/Scissor or Q to quit: rock
+      #Computer picked scissor.
+      #You won!great.
+      #Type Rock/Paper/Scissor or Q to quit: rock
+      #Computer picked paper.
+      #You lost!
+      #Type Rock/Paper/Scissor or Q to quit: q
+      #You won 1 times.
+      #The computer won 2 times.
